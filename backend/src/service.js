@@ -37,8 +37,8 @@ const formFields = {
         {label: 'Color', value: 'Negro'}
     ],
     inputs: {    
-        postal_code: {label: 'Código Postal', value: '64420'},
-        city: {label: 'Ciudad del vehículo', value: 'San Nicolás de los Garza'},
+        postal_code: {label: 'Código Postal', value: '64000'},
+        city: {label: 'Ciudad del vehículo', value: 'Monterrey'},
         mileage: {label: 'Recorrido', value: '50000'},
         phone: {label: 'Teléfono celular', value: '1234567890'}
     }
