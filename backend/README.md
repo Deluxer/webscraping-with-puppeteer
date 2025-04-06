@@ -62,7 +62,7 @@ curl -X POST \
 
 Use the `slowMo` option in the Puppeteer configuration to slow down the automation process.
 ```javascript
-const slowMo = 50;
+slowMo = 50;
 ```
 
 Set `headless` to `false` to see the browser in action, `new` value for production:

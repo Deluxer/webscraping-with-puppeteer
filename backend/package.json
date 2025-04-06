@@ -2,14 +2,14 @@
   "name": "webscraping-with-puppeteer",
   "version": "1.0.0",
   "description": "Seminuevos.com automation system",
-  "main": "src/service.js",
+  "main": "src/main.js",
   "type": "module",
   "engines": {
     "node": ">=16.0.0"
   },
   "scripts": {
-    "start": "node src/service.js",
-    "dev": "node --watch src/service.js",
+    "start": "node src/main.js",
+    "dev": "node --watch src/main.js",
     "install-deps": "pnpm install"
   },
   "dependencies": {
